@@ -27,3 +27,10 @@ api ini berfungsi:
 - untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
 - untuk pembacaan 3 data history dari weatherbit
 - untuk pembacaan 3 data prediction dari model mesin learning
+
+
+
+    1. Adi
+    2. Awan
+    3. Ifnu
+    
