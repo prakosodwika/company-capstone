@@ -16,14 +16,14 @@
 
 api ini berfungsi:
 
-- untuk memasukkan data registrasi user kedalam database users
-- untuk melakukan pengecekan data login dari user mengunakan database user
-- untuk memasukkan dara history air weather kedalam database history
+1. untuk memasukkan data registrasi user kedalam database users
+2. untuk melakukan pengecekan data login dari user mengunakan database user
+3.  untuk memasukkan dara history air weather kedalam database history
 
 ### api-awmonitor-flask
 
 api ini berfungsi:
 
-- untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
-- untuk pembacaan 3 data history dari weatherbit
-- untuk pembacaan 3 data prediction dari model mesin learning
+1. untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
+2. untuk pembacaan 3 data history dari weatherbit
+3. untuk pembacaan 3 data prediction dari model mesin learning
