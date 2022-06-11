@@ -22,9 +22,9 @@
 ## About AWMonitor
 
 
-## Highlight Features
+## Fitur Utama
 
-
+## API
 ### api-awmonitor-nodejs
 
 api ini berfungsi:
