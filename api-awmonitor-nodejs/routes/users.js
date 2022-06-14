@@ -97,7 +97,7 @@ router.post("/login", async (req, res) => {
       });
     }
     return res.status(404).json({
-      message: "Email tidak tidak terdaftar",
+      message: "Email tidak terdaftar",
     });
   } catch (err) {
     console.error(err.message);
