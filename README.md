@@ -4,41 +4,51 @@
 
 </p>
 
-## Contents
-
 ## Team
 
-- (ML) M2471F3093 - M. Rafli Julian
-- (ML) M2119f1493 - Lusi Aulia Jati
-- (ML) M2004F0250 - Eko Bagus Yanuar
-- (MD) A2471F3094 - Habib Rizky Almajid Siregar
-- (MD) A2471G3091 - Muhammad Yashlan Iskandar
-- (MD) A2404G2969 - Habyb Nur Ikhsan
-- (CC) C2014J1373 - Prakoso Dwika Prihambodo
-- (CC) C2014F1372 - Rossario Catherine Elfrida
-- (CC) C2465F3081 - Ronaldo Baja Pradana
+| ID         | Role               | Nama                        |
+| ---------- | ------------------ | --------------------------- |
+| M2471F3093 | Machine Learning   | M. Rafli Julian             |
+| M2119F1493 | Machine Learning   | Lusi Aulia Jati             |
+| M2004F0250 | Machine Learning   | Eko Bagus Yanuar            |
+| A2471F3094 | Mobile Development | Habib Rizky Almajid Siregar |
+| A2471G3091 | Mobile Development | Muhammad Yashlan Iskandar   |
+| A2404G2969 | Mobile Development | Habyb Nur Ikhsan            |
+| C2014J1373 | Cloud Computing    | Prakoso Dwika Prihambodo    |
+| C2014F1372 | Cloud Computing    | Rossario Catherine Elfrida  |
+| C2465F3081 | Cloud Computing    | Ronaldo Baja Pradana        |
 
-## About AWMonitor
+## Other Repository
 
-## Fitur Utama
+- Machine Learning : https://github.com/muhammadraflij/company-capstone
+- Mobile Development : https://github.com/yashlan/AWMonitor
 
 ## API
 
 ### api-awmonitor-nodejs
 
-api ini berfungsi:
-
-1. untuk memasukkan data registrasi user kedalam database users
-2. untuk melakukan pengecekan data login dari user mengunakan database user
-3. untuk memasukkan dara history air weather kedalam database history
+- untuk memasukkan data registrasi user kedalam database users
+- untuk melakukan pengecekan data login dari user mengunakan database user
+- untuk memasukkan dara history air weather kedalam database history
 
 ### api-awmonitor-flask
 
-api ini berfungsi:
+- untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
+- untuk pembacaan 3 data history dari weatherbit berupa air quality dan weather
+- untuk pembacaan 3 data prediction dari model mesin learning berupa air quality dan weather
 
-1. untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
-2. untuk pembacaan 3 data history dari weatherbit berupa air quality dan weather
-3. untuk pembacaan 3 data prediction dari model mesin learning berupa air quality dan weather
+## Technologies
+
+- Android Studio
+- Visual Studio Code
+- Google Cloud Platform
+- Google Colab
+
+## Languanges
+
+- Kotlin
+- JavaScript
+- Python
 
 ## Cloud Computing
 
@@ -57,8 +67,3 @@ What we use ?
 - DB : Cloud SQL
 - Repo : Github
 - Web Server : Flask
-
-## REST API
-
-We are using **NodeJS** with **Express** Framework and **CloudSQL** as our development technology stack and This REST API
-is used to support our Android Application.
