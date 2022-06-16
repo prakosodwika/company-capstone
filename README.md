@@ -18,38 +18,39 @@
 - (CC) C2014F1372 - Rossario Catherine Elfrida
 - (CC) C2465F3081 - Ronaldo Baja Pradana
 
-
 ## About AWMonitor
-
 
 ## Fitur Utama
 
 ## API
+
 ### api-awmonitor-nodejs
 
 api ini berfungsi:
 
 1. untuk memasukkan data registrasi user kedalam database users
 2. untuk melakukan pengecekan data login dari user mengunakan database user
-3.  untuk memasukkan dara history air weather kedalam database history
+3. untuk memasukkan dara history air weather kedalam database history
 
 ### api-awmonitor-flask
 
 api ini berfungsi:
 
 1. untuk pembacaan data current air weather 34 provinsi di indonesia dari weatherbit
-2. untuk pembacaan 3 data history dari weatherbit
-3. untuk pembacaan 3 data prediction dari model mesin learning
+2. untuk pembacaan 3 data history dari weatherbit berupa air quality dan weather
+3. untuk pembacaan 3 data prediction dari model mesin learning berupa air quality dan weather
 
 ## Cloud Computing
 
 Why we use Cloud ?
+
 - Low entry cost
 - Ability to scale on-demand
 - Go-to-market quicker
 - Focus on core business
 
 What we use ?
+
 - Cloud Service : Google Cloud Platform
 - Compute : App Engine, Cloud Run
 - VPC: asia-southeast1/a
@@ -58,6 +59,6 @@ What we use ?
 - Web Server : Flask
 
 ## REST API
-We are using **NodeJS** with **Express** Framework and **CloudSQL** as our development technology stack and  This REST API
-is used to support our Android Application.
 
+We are using **NodeJS** with **Express** Framework and **CloudSQL** as our development technology stack and This REST API
+is used to support our Android Application.
