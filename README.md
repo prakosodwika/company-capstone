@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">AWMonitor</h1>
-  <h3 align="center">A Carbon Emission and Waste Monitoring Platform. </h3>
+  <h1 align="center">AQIMonitor</h1>
+  <h3 align="center">an Air Quality Index Monitoring Platform. </h3>
 
 </p>
 
